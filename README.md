@@ -10,7 +10,7 @@
 ## Usage
 import `github.com/OsagieDG/hyper/event`
 
-- Check out the example.go file for a better understanding
+- Check out the example.go for a sample usage
 
 ```go
 
