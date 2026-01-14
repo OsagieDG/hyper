@@ -6,7 +6,7 @@ import (
 	"log/slog"
 	"time"
 
-	"github.com/wreyte/hyper/event"
+	"github.com/OsagieDG/hyper/event"
 )
 
 func main() {

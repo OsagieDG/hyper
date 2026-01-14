@@ -4,11 +4,11 @@
 
 ## Installation
 ```
-     go get github.com/wreyte/hyper
+     go get github.com/OsagieDG/hyper
 ```
 
 ## Usage
-import `github.com/wreyte/hyper/event`
+import `github.com/OsagieDG/hyper/event`
 
 - Check out the example.go file for a better understanding
 

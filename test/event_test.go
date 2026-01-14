@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/wreyte/hyper/event"
+	"github.com/OsagieDG/hyper/event"
 )
 
 func TestMultipleSubscribers(t *testing.T) {
